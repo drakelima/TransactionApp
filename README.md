@@ -25,3 +25,11 @@ A step-by-step series of examples that tell you how to get a development environ
 
 ```shell
 mvn spring-boot:run
+
+## Running Tests
+
+To run the automated unit tests for this system, use the following command:
+
+```shell
+mvn test
+
